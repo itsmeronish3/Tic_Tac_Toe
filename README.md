@@ -1,2 +1,17 @@
-# Tic_Tac_Toe
-Tic Tac Toe game built in Python with both two-player and AI modes. The AI uses the Minimax algorithm to make optimal moves. It features win and draw detection, clean modular code structure, and demonstrates core concepts like loops, functions, recursion, and game logic implementation in a simple command-line interface.
+# 🎮 Tic Tac Toe (Python)
+
+A simple terminal-based Tic Tac Toe game with:
+
+✅ 2 Player Mode  
+✅ AI Mode (Minimax Algorithm)  
+
+## Features
+- Clean modular structure
+- Win/draw detection
+- Unbeatable AI
+- Simple CLI interface
+
+## How to Run
+
+```bash
+python main.py
